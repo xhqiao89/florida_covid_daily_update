@@ -1,1 +1,1 @@
-# florida_covid_daily_update
+## Hospitalization and ICU original csv files from Florida Agency of Healthcare Administration (AHCA) 
