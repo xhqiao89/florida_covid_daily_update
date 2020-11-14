@@ -1,1 +1,1 @@
-## zipped shapefiles for being published to AGOL as services
+## Zipped shapefiles to be published as services on AGOL
