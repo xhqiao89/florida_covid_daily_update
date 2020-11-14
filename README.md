@@ -1,1 +1,1 @@
-# florida_covid_daily_update
+## Python scripts to automatically download covid19 related data, process the data, and update online dashboard and website.
