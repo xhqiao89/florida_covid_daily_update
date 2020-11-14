@@ -1,1 +1,1 @@
-# florida_covid_daily_update
+## zipped shapefiles for being published to AGOL as services
