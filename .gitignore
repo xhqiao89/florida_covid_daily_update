@@ -1,0 +1,13 @@
+*.sbx
+.DS_Store
+*.json
+*.xlsx
+*.shp
+*.prj
+*.dbf
+*.shx
+*.zip
+*.cpg
+*.csv
+*.xml
+*.sbn
