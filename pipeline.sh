@@ -13,7 +13,7 @@ convert_notebooks(){
 	jupyter nbconvert --to python --output-dir='.' 4_Download_ICU_Beds_County.ipynb
 	jupyter nbconvert --to python --output-dir='.' 5_COVID_Hospital_ICU_Process.ipynb
 	jupyter nbconvert --to python --output-dir='.' 6_COVID_14day_Metrics_Process.ipynb
-	jupyter nbconvert --to python --output-dir='.' 7_Update_COVID_ArcGIS_Online_Layers.ipynb
+	#jupyter nbconvert --to python --output-dir='.' Update_COVID_ArcGIS_Online_Layers.ipynb
 }
 
 run_scripts(){
